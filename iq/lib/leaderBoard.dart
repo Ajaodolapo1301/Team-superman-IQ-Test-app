@@ -23,7 +23,7 @@ class _LeaderState extends State<Leader> {
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10),
                       image: DecorationImage(
-                          image: AssetImage("images/award.png")
+                          image: AssetImage("assets/images/award.png")
                       )
                   ),
                 ),
